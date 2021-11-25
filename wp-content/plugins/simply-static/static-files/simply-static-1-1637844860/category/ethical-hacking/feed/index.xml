@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ETHICAL HACKING &#8211; Techoscience</title>
+	<atom:link href="https://tribillion15.github.io/Techoscience/category/ethical-hacking/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tribillion15.github.io/Techoscience</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 25 Nov 2021 12:26:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>ETHICAL HACKING</title>
+		<link>https://tribillion15.github.io/Techoscience/2021/11/25/ethical-hacking/</link>
+					<comments>https://tribillion15.github.io/Techoscience/2021/11/25/ethical-hacking/#respond</comments>
+		
+		<dc:creator><![CDATA[Nanghu]]></dc:creator>
+		<pubDate>Thu, 25 Nov 2021 12:24:04 +0000</pubDate>
+				<category><![CDATA[ETHICAL HACKING]]></category>
+		<guid isPermaLink="false">https://tribillion15.github.io/Techoscience/?p=50</guid>
+
+					<description><![CDATA[Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data. Carrying out an ethical hack involves duplicating strategies and actions of malicious attackers. This practice helps to identify&#160;security vulnerabilities&#160;which can then be resolved before a malicious attacker has the opportunity to exploit them. What is an ethical hacker? Also known as “white hats,”&#160;ethical hackers&#160;are security experts that perform these security assessments. The proactive work they do helps to improve an organization’s security posture. With prior approval from the organization or owner of the IT asset, the mission of ethical hacking is opposite from malicious hacking.&#160; What are the key concepts of ethical hacking? Hacking experts follow four key protocol concepts: Stay legal. Obtain proper approval before accessing and performing a&#160;security assessment. Define the scope. Determine the scope of the assessment so that the ethical hacker’s work remains legal and within the organization’s approved&#8230;
+ <p> <a class="more-link" href="https://tribillion15.github.io/Techoscience/2021/11/25/ethical-hacking/">Read more</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data. Carrying out an ethical hack involves duplicating strategies and actions of malicious attackers. This practice helps to identify&nbsp;<a href="https://www.synopsys.com/blogs/software-security/types-of-security-vulnerabilities/">security vulnerabilities</a>&nbsp;which can then be resolved before a malicious attacker has the opportunity to exploit them.</p>
+
+
+
+<h2>What is an ethical hacker?</h2>
+
+
+
+<h2></h2>
+
+
+
+<p>Also known as “white hats,”&nbsp;<a href="https://www.synopsys.com/blogs/software-security/what-are-ethical-hackers/">ethical hackers</a>&nbsp;are security experts that perform these security assessments. The proactive work they do helps to improve an organization’s security posture. With prior approval from the organization or owner of the IT asset, the mission of ethical hacking is opposite from malicious hacking.&nbsp;</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h2>What are the key concepts of ethical hacking?</h2>
+
+
+
+<h2></h2>
+
+
+
+<p>Hacking experts follow four key protocol concepts:</p>
+
+
+
+<ol><li><strong>Stay legal</strong>. Obtain proper approval before accessing and performing a&nbsp;<a href="https://www.synopsys.com/glossary/what-is-vulnerability-assessment.html">security assessment</a>.</li><li><strong>Define the scope</strong>. Determine the scope of the assessment so that the ethical hacker’s work remains legal and within the organization’s approved boundaries.</li><li><strong>Report vulnerabilities</strong>. Notify the organization of all vulnerabilities discovered during the assessment. Provide remediation advice for resolving these vulnerabilities.</li><li><strong>Respect data sensitivity</strong>. Depending on the data sensitivity, ethical hackers may have to agree to a non-disclosure agreement, in addition to other terms and conditions required by the assessed organization.&nbsp;</li></ol>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h2>How are ethical hackers different than malicious hackers?</h2>
+
+
+
+<h2></h2>
+
+
+
+<p>Ethical hackers use their knowledge to secure and improve the technology of organizations. They provide an essential service to these organizations by looking for vulnerabilities that can lead to a security breach.</p>
+
+
+
+<p>An ethical hacker reports the identified vulnerabilities to the organization. Additionally, they provide remediation advice. In many cases, with the organization’s consent, the ethical hacker performs a re-test to ensure the vulnerabilities are fully resolved.&nbsp;</p>
+
+
+
+<p>Malicious hackers intend to gain unauthorized access to a resource (the more sensitive the better) for financial gain or personal recognition. Some malicious hackers deface websites or crash backend servers for fun, reputation damage, or to cause financial loss. The methods used and vulnerabilities found remain unreported. They aren’t concerned with improving the organizations security posture.&nbsp;&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tribillion15.github.io/Techoscience/2021/11/25/ethical-hacking/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
